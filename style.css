@@ -179,7 +179,7 @@ ul {
 }
 
 .aside .logo a {
-    color: var(--text-black-900);
+    color: #00cfff;
     font-weight: 700;
     padding: 15px 20px;
     font-size: 30px;
@@ -271,7 +271,7 @@ ul {
     font-weight: 600;
     display: block;
     border-bottom: 1px solid var(--bg-black-50);
-    color: var(--text-black-900);
+    color: #00cfff;
     padding: 5px 15px;
 }
 
