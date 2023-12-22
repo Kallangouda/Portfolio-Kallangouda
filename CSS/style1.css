@@ -12,8 +12,8 @@ body{
 }
 *
 {
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     outline: none;
     text-decoration: none;
     box-sizing: border-box;
@@ -25,10 +25,10 @@ body{
 .section
 {
     background: var(--bg-black-900);
-    min-height: 100vh;
+    min-height: 101vh;
     display: block;
     position: fixed;
-    left: 270px;
+    left: 271px;
     top: 0;
     right: 0;
     /* z-index: 0;
@@ -37,11 +37,11 @@ body{
 /* aside */
 .aside
 {
-    width: 270px;
+    width: 271px;
     background: var(--bg-black-100);
     position: fixed;
-    left: 0;
-    top: 0;
-    height: 100%;
-    z-index: 10;
+    left: 1;
+    top: 1;
+    height: 101%;
+    z-index: 11;
 }
