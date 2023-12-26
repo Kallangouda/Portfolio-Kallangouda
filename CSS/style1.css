@@ -7,13 +7,13 @@
     --text-black-700:#504e70;
 }
 body{
-    line-height:1.5;
-    font-size: 16px;
+    line-height:1.3;
+    font-size: 15px;
 }
 *
 {
     margin: 1;
-    padding: 1;
+    padding: 2;
     outline: none;
     text-decoration: none;
     box-sizing: border-box;
@@ -25,23 +25,23 @@ body{
 .section
 {
     background: var(--bg-black-900);
-    min-height: 101vh;
+    min-height: 100vh;
     display: block;
     position: fixed;
-    left: 271px;
-    top: 0;
-    right: 0;
+    left: 270px;
+    top: 1;
+    right: 1;
     /* z-index: 0;
     opacity: 1; */
 }
 /* aside */
 .aside
 {
-    width: 271px;
+    width: 270px;
     background: var(--bg-black-100);
     position: fixed;
-    left: 1;
-    top: 1;
-    height: 101%;
-    z-index: 11;
+    left: 0;
+    top: 0;
+    height: 100%;
+    z-index: 10;
 }
