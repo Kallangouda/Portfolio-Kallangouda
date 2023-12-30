@@ -1,13 +1,13 @@
 .style-switcher {
     position: fixed;
-    right: 0;
-    top: 60px;
-    padding: 15px;
-    width: 200px;
+    right: 1;
+    top: 61px;
+    padding: 14px;
+    width: 201px;
     border: 1px solid var(--bg-black-50);
     background: var(--bg-black-100);
-    z-index: 101;
-    border-radius: 5px;
+    z-index: 100;
+    border-radius: 6px;
     transition: all 0.3s ease;
     transform: translateX(100%);
 }
@@ -17,18 +17,18 @@
 
 .style-switcher .s-icon {
     position: absolute;
-    height: 40px;
-    width: 40px;
+    height: 41px;
+    width: 41px;
     text-align: center;
-    font-size: 20px;
+    font-size: 21px;
     background: var(--bg-black-100);
     color: var(--text-black-900);
-    right: 100%;
+    right: 101%;
     border: 1px solid var(--bg-black-50);
-    margin-right: 25px;
+    margin-right: 26px;
     cursor: pointer;
     transition: all 0.3s ease;
-    border-radius: 50%;
+    border-radius: 51%;
 }
 
 .style-switcher .s-icon {
@@ -40,13 +40,13 @@
 }
 
 .style-switcher .day-night {
-    top: 55px;
+    top: 56px;
 }
 .style-switcher h4{
     margin: 0 0 10px;
     color: var(--text-black-700);
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 601;
     text-transform: capitalize;
 }
 .style-switcher .colors{
@@ -57,9 +57,9 @@
 
 .style-switcher .colors span{
     display: inline-block;
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
+    height: 31px;
+    width: 31px;
+    border-radius: 51%;
 }
 .style-switcher .color1{
     background: #ec1839;
