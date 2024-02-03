@@ -21,7 +21,7 @@ This website serves as a digital representation of who I am . It reflects my pas
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sahil-ismailnavar).
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kallangouda-patil/).
 
 ## GitHub
 
