@@ -19,15 +19,6 @@ This website serves as a digital representation of who I am . It reflects my pas
 - **Skills:** Learn about my skills and expertise .
 - **Contact:** Reach out to me via email or connect on LinkedIn.
 
-## Navigation Guide
-
-- **Home:** Get an overview of my portfolio.
-- **Qualification:** Explore my Education field.
-- **Skills:** View my skills and expertise.
-- **Projects:** Take a look at my Projects.
-- **Contact:** Find my contact information.
-
-
 ## LinkedIn
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sahil-ismailnavar).
