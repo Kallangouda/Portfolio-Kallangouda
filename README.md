@@ -25,7 +25,7 @@ Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sahi
 
 ## GitHub
 
-Check out my GitHub profile: [GitHub Profile](https://github.com/sahil-s-i).
+Check out my GitHub profile: [GitHub Profile](https://github.com/Kallangouda).
 
 
 ## Future Plans
